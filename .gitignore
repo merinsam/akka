@@ -1,0 +1,8 @@
+
+akka-java-samples/target/*
+
+akka-java-samples/.classpath
+
+akka-java-samples/.project
+
+akka-java-samples/.settings/*
